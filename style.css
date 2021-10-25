@@ -111,4 +111,11 @@ section::before {
         position: relative;
         bottom: 55px;
     }
+
+    #jet {
+        top: 0;
+        left: 0;
+        width: calc(100%) + 150px;
+        height: 450px;
+    }
 }
