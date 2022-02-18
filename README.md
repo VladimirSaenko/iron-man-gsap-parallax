@@ -1,4 +1,4 @@
-# Iron-Man-gsap-site
+# Iron-Man-gsap-parallax
 
 ## Сайт с Железным человеком на js-библиотеке gsap
 
