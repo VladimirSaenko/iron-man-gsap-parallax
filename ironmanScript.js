@@ -1,4 +1,3 @@
-
 "use strict";
 
 gsap.to('#bg', {
