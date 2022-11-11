@@ -1,4 +1,4 @@
-# Iron-Man-gsap-parallax
+# iron-man-gsap-parallax
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/Iron%20Man/index.html
 
